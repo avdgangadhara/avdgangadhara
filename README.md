@@ -1,194 +1,144 @@
 <div align="center">
-  <img height="250" width ="1000" src="https://github.com/gangadhararaoburada/gangadhararaoburada/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png"  />
+  <img height="230" src="https://github.com/avdgangadhara/avdgangadhara/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png" alt="Banner" />
 </div>
 
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=gangadhararaoburada.gangadhararaoburada&left_text=Visitors"  />
-
-###
-
-<div align="left">
-  <a href="https://in.linkedin.com/in/gangadhararaoburada" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="" alt="linkedin logo"  />
-  </a>
-  <a href="https://hackerrank.com/avdgrexternalpr1" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="" alt="hackerrank logo"  />
-  </a>
-  <a href="https://t.me/gangadhararaoburada" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="" alt="telegram logo"  />
-  </a>
-  <a href="https://medium.com/@gangadhararaoburada" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="" alt="medium logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="center">Seeking to achieve a position in a reputed company which provides me with adequate opportunities to increase my skills and knowledge, along with contributing for the growth of the company.</h3> <br/>
-
-###
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=gangadhararaoburada&theme=juicyfresh&column=-1&row=1&margin-w=5&margin-h=5&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=avdgangadhara.avdgangadhara&left_text=Profile%20Views" alt="Visitor Badge" />
 </div>
 
-###
+<br/>
 
-<h2 align="left">👩‍💻  About Me</h2>
-
-###
-
-<img align="right" height="150" src="https://github.com/gangadhararaoburada/gangadhararaoburada/blob/main/studying.jpg"  />
-
-###
-
-<p align="left">I'm Gangadhara Rao Burada<br><br>- 🔭 I’m working as Intern<br>- 📚 I'm currently looking for Job Opportunities <br>- ⚡ In my free time I do some project works</p>
-
-###
-
-<h2 align="left">🛠 My Favourite tools</h2>
-
-###
-
-<h3 align="left">👨‍💻 Programming Languages</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+<div align="center">
+  <a href="https://in.linkedin.com/in/avdgangadhara" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/avdgangadhara" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/gangadhararaoburada" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  &nbsp;
+  <a href="https://medium.com/@gangadhararaoburada" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
 </div>
 
-###
+<br/>
 
-<h3 align="left">🧰 Frontend Web Development</h3>
+<h3 align="center">
+  Aspiring Software Developer | Passionate about building real-world solutions<br/>
+  Currently seeking full-time opportunities to grow and contribute
+</h3>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=avdgangadhara&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="Trophies" />
 </div>
 
-###
+---
 
-<h3 align="left">🌃 Backend Web Development</h3>
+### 👩‍💻 About Me
 
-###
+<img align="right" height="180" src="https://github.com/avdgangadhara/avdgangadhara/blob/main/studying.jpg" alt="Profile Image"/>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+- 🔭 Currently working as an **Intern**
+- 🎯 Actively looking for **Job Opportunities**
+- 🌱 Continuously learning and building projects
+- ⚡ In free time → Coding, exploring new tech & solving problems
+- 💬 Ask me about **Java, Python, Web Development & Android**
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack
+
+#### 👨‍💻 Programming Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="42" alt="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="42" alt="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="42" alt="R"/>
+</p>
+
+#### 🌐 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="42" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="JavaScript"/>
+</p>
+
+#### ⚙️ Backend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="42" alt="PHP"/>
+</p>
+
+#### 📱 Mobile Development
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="42" alt="Android Studio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="42" alt="Android"/>
+</p>
+
+#### 🗄️ Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="42" alt="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="MongoDB"/>
+</p>
+
+#### 💻 Operating Systems
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="42" alt="Windows"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="42" alt="Ubuntu"/>
+</p>
+
+#### 🧰 Tools & Technologies
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="42" alt="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="42" alt="Anaconda"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="42" alt="RStudio"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="42" alt="Tomcat"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="42" alt="Canva"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=avdgangadhara&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avdgangadhara&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages"/>
 </div>
 
-###
+<br/>
 
-<h3 align="left">📱 Mobile Application Development</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+<div align="center">
+  <img height="200" src="https://streak-stats.demolab.com?user=avdgangadhara&theme=radical&hide_border=true&border_radius=8" alt="GitHub Streak"/>
 </div>
 
-###
+---
 
-<h3 align="left">🗄️Databases</h3>
+### 🐍 Contribution Snake
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/avdgangadhara/avdgangadhara/output/snake.svg" alt="Snake Animation"/>
 </div>
 
-###
+---
 
-<h3 align="left">🖥️ Operating Systems</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+<div align="center">
+  <h3>✨ Let's connect and build something amazing together!</h3>
 </div>
-
-###
-
-<h3 align="left">💻 Software Tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="40" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-</div>
-
-###
-
-<h2 align="left">📈 GitHub Profile Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gangadhararaoburada&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=panda&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-</div>
-
-###
-
-<h2 align="left">💹 Languages  Used</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gangadhararaoburada&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="170" alt="languages graph"  />
-</div>
-
-###
-
-<h2 align="left">🔥 Streak Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=gangadhararaoburada&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="230" alt="streak graph"  />
-</div>
-
-###
-
-<h3 align="left">🚵 My Activities</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/gangadhararaoburada/gangadhararaoburada/output/snake.svg" alt="Snake animation" />
-
-###
