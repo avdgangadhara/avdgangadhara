@@ -1,4 +1,4 @@
-"<div align="center">
+<div align="center">
   <img height="250" width ="1000" src="https://github.com/avdgangadhara/avdgangadhara/blob/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png" />
 </div>
 ###
@@ -112,7 +112,7 @@
 <h2 align="left">📈 GitHub Profile Stats</h2>
 ###
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gangadhararaoburada&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=panda&locale=en&hide_border=false&order=1" height="250" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avdgangadhara&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=panda&locale=en&hide_border=false&order=1" height="250" alt="stats graph" />
 </div>
 ###
 <h2 align="left">💹 Languages Used</h2>
@@ -129,5 +129,5 @@
 ###
 <h3 align="left">🚵 My Activities</h3>
 ###
-<img src="https://raw.githubusercontent.com/gangadhararaoburada/gangadhararaoburada/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/avdgangadhara/avdgangadhara/output/snake.svg" alt="Snake animation" />
 ###
