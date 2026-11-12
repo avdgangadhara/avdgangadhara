@@ -3,7 +3,7 @@
   <!-- Header Banner -->
   <img src="https://raw.githubusercontent.com/avdgangadhara/avdgangadhara/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png" alt="Burada A V D Gangadhara Rao - Profile Banner" width="100%" />
 
-  <br/><br/>
+<br/><br/>
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/avdgangadhara">
@@ -15,13 +15,16 @@
     Focused on building reliable backend systems, modular Python utilities, and responsive web applications.
   </p>
 
-  <!-- Quick Badges -->
+  <!-- Status & Quick Badges with Enhanced Spacing & Responsive Wrapping -->
   <p align="center">
     <a href="mailto:bavdgangadhararao@zohomail.in">
       <img src="https://img.shields.io/badge/Status-Actively%20Seeking%20Opportunities-success?style=flat-square&logo=target&logoColor=white" alt="Status" />
     </a>
+    &nbsp;&nbsp;&bull;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Degree-B.Tech%20CSE%20(8.21%20CGPA)-blue?style=flat-square&logo=google-scholar&logoColor=white" alt="Education" />
+    &nbsp;&nbsp;&bull;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Location-Andhra%20Pradesh%2C%20India-orange?style=flat-square&logo=google-maps&logoColor=white" alt="Location" />
+    &nbsp;&nbsp;&bull;&nbsp;&nbsp;
     <img src="https://visitor-badge.laobi.icu/badge?page_id=avdgangadhara.avdgangadhara&left_text=Profile%20Views" alt="Profile Views" />
   </p>
 
@@ -30,15 +33,27 @@
     <a href="https://in.linkedin.com/in/avdgangadhara" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="https://github.com/avdgangadhara" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
+    &nbsp;
     <a href="https://leetcode.com/u/avdgangadhara" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
     </a>
+    &nbsp;
     <a href="https://hackerrank.com/avdgangadhara" target="_blank">
       <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
     </a>
+    &nbsp;
+    <a href="https://t.me/gangadhararaoburada" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    &nbsp;
+    <a href="https://medium.com/@gangadhararaoburada" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    </a>
+    &nbsp;
     <a href="mailto:bavdgangadhararao@zohomail.in">
       <img src="https://img.shields.io/badge/Email-bavdgangadhararao%40zohomail.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
@@ -48,168 +63,334 @@
 
 ---
 
-### 👨‍💻 Executive Summary
+### 🎯 Career Objective
 
-I am a motivated **Computer Science Graduate (Andhra University, 2025)** with strong foundations in **Java, Python, Data Structures, Relational Databases (SQL)**, and modern frontend technologies. I take pride in writing modular, defensible code with robust error handling, automated data validation, and intuitive user interfaces.
+Computer Science graduate (**B.Tech CSE, Andhra University, 2025**) with foundational knowledge of **Python, SQL, Core Java, Relational DBMS**, and modern spreadsheet concepts, combined with hands-on experience developing modular Python CLI applications, RESTful microservices, and interactive web projects. Passionate about writing defensive, clean code with structured error handling, automated data validation, and responsive user experiences. Seeking an entry-level **Software Developer**, **Java Full Stack Developer**, or **Data Analyst** opportunity to apply strong programming, database, and problem-solving fundamentals to high-impact projects.
 
-- 🎓 **Education:** B.Tech in CSE, Andhra University (**8.21 CGPA**) | Diploma in Computer Engineering (**94%**)
-- 🎯 **Target Roles:** Software Developer &bull; Java Full Stack Developer &bull; Frontend Developer &bull; Junior Python Engineer
-- 💡 **Core Interests:** Object-Oriented Architecture, Web API Design, Batch Data Processing, and User Experience Design
-- 📍 **Location:** Andhra Pradesh, India (Open to on-site, hybrid, and remote positions)
+- 🎓 **Education:** B.Tech in CSE, Andhra University (**8.21 CGPA**) | Diploma in Computer Engineering (**94%**) | SSC (**9.5 CGPA**)
+- 🎯 **Target Roles:** Software Developer &bull; Java Full Stack Developer &bull; Frontend Developer &bull; Python Engineer &bull; Data Analyst
+- 💡 **Core Strengths:** Modular Object-Oriented Architecture, Web API Integration, Tabular Data Validation, Defensive Error Handling
+- 📍 **Location:** Andhra Pradesh, India (Open to on-site, hybrid, and remote opportunities across India and globally)
 
 ---
 
 ### 🔭 Focus & Learning Roadmap
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ Currently Building</h4>
-      <ul>
-        <li><strong>Full-Stack Applications:</strong> Engineering end-to-end CRUD web applications integrating REST APIs with relational database persistence.</li>
-        <li><strong>Data Validation Utilities:</strong> Developing robust Python scripts for batch file reconciliation, schema checks, and integrity enforcement.</li>
-        <li><strong>Interactive Web UIs:</strong> Crafting responsive user interfaces with vanilla JavaScript, modern DOM manipulation, and component frameworks.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌱 Currently Upskilling</h4>
-      <ul>
-        <li><strong>React.js:</strong> State management (Hooks), component lifecycle, and modular single-page architectures.</li>
-        <li><strong>Spring Boot:</strong> Controller-Service-Repository architecture, REST endpoint creation, and Spring Data JPA.</li>
-        <li><strong>Advanced SQL & Database Design:</strong> Complex joins, window functions, indexing strategies, and normalized schema design.</li>
-      </ul>
-    </td>
-  </tr>
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="left">⚡ Currently Building</th>
+      <th width="50%" align="left">🌱 Currently Upskilling</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top">
+        <ul>
+          <li><strong>Full-Stack Applications:</strong> Engineering end-to-end CRUD web applications integrating REST APIs with relational database persistence.</li>
+          <li><strong>Data Validation Utilities:</strong> Developing robust Python scripts for batch file reconciliation, schema checks, and integrity enforcement.</li>
+          <li><strong>Interactive Web UIs:</strong> Crafting responsive user interfaces with vanilla JavaScript, modern DOM manipulation, and component frameworks.</li>
+        </ul>
+      </td>
+      <td valign="top">
+        <ul>
+          <li><strong>React.js:</strong> State management (Hooks), component lifecycle, and modular single-page architectures.</li>
+          <li><strong>Spring Boot:</strong> Controller-Service-Repository architecture, REST endpoint creation, and Spring Data JPA.</li>
+          <li><strong>Advanced SQL & Database Design:</strong> Complex joins, window functions, indexing strategies, and normalized schema design.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
 ### 🛠️ Technical Stack & Tooling
 
-#### Languages & Core Technologies
+Verified technical proficiencies established through academic excellence, active GitHub source code implementations, and project demonstrations:
+
+#### 1. Confident & Daily Proficiencies
+
+_Technologies utilized routinely for coursework, personal utilities, and production-ready applications:_
+
+- **Programming Languages:** Python (3.12+), SQL, Core Java, C, JavaScript (ES6+)
+- **Frontend & Styling:** HTML5, CSS3, Bootstrap 4
+- **Spreadsheets & Data:** Microsoft Excel (Formulas, Pivot Tables, Data Formatting)
+- **Developer Version Control:** Git, GitHub, VS Code
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,c,sql" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,c,html,css,bootstrap,git,github,vscode" alt="Confident Technologies" />
   </a>
 </p>
 
-#### Frontend Web Development
+#### 2. Practical Project Experience
+
+_Demonstrated through completed repositories, capstone projects, and real-world implementations:_
+
+- **Web API Integration:** Asynchronous JavaScript Fetch API, RESTful endpoints, JSON parsing & serialization
+- **DOM & Client State:** Vanilla JS DOM manipulation, Web Storage API (`localStorage`), dynamic rendering
+- **Data & Automation:** Batch CSV/Excel parsing, duplicate detection, debit/credit validation, defensive exception handling
+- **Development Environments:** Android Studio, RStudio, Google Colab, Anaconda
+- **Core CS Fundamentals:** Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Relational DBMS, Debugging & Analytical Reasoning
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react" alt="Frontend Development" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,anaconda,linux,windows" alt="Practical Experience" />
   </a>
 </p>
 
-#### Backend & Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql" alt="Backend and Databases" />
-  </a>
-</p>
+#### 3. Active Upskilling & Applied Learning
 
-#### Developer Environments & Productivity
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,windows" alt="Developer Tools" />
-  </a>
-</p>
+_Structured, continuous learning paths currently being broadened and deepened:_
+
+- **Backend Architecture:** Spring Boot (Controller-Service-Repository multi-tier pattern, Spring Web)
+- **Frontend Frameworks:** React.js (Component architecture, Hooks, state management)
+- **Advanced Querying:** Advanced SQL joins, window functions, indexing strategies, and schema normalization
 
 > [!NOTE]
-> *Proficiencies are rooted in academic rigor and genuine project implementations. Technologies like **React.js** and **Spring Boot** reflect active, structured upskilling rather than overstated claims.*
+> _Proficiencies are rooted in rigorous academic training and verifiable source code implementations. Technologies listed under active learning reflect structured upskilling with genuine ongoing commits._
 
 ---
 
 ### 🚀 Featured Projects
 
-Here is a curated selection of real-world development projects demonstrating technical capability across backend logic, database management, and interactive frontend interfaces:
+Every featured project represents genuine, completed development work with verifiable source code and real-world practical value:
 
-<table>
+<!-- Project 1: Long-Term AQI Prediction -->
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Financial Data Validator & Reconciliation Utility</h3>
-      <p><em>Python &bull; Pandas &bull; Tabular Data Processing &bull; OOP</em></p>
+    <td>
+      <h3>📊 Long-Term AQI Prediction & Environmental Dashboard</h3>
+      <p><strong>B.Tech Final Year Capstone Project</strong> &bull; <em>Team of 3 (Jan 2025 &ndash; Apr 2025)</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
+        <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status" />
+      </p>
       <ul>
-        <li>Automated batch processing pipeline for financial transaction records from raw CSV/Excel files.</li>
-        <li>Integrity verification detecting duplicate transaction IDs, unbalanced debit/credit records, and missing timestamps.</li>
-        <li>Aggregated date-window cross-ledger reconciliation with detailed discrepancy reports and defensive exception handling.</li>
+        <li><strong>Interactive Frontend Dashboard:</strong> Designed and developed an interactive web interface using semantic HTML5, CSS3, and JavaScript displaying real-time air quality metrics, interactive cards, and 6+ environmental pollutant levels.</li>
+        <li><strong>API Integration & Data Flow:</strong> Connected the web interface to backend REST endpoints using asynchronous JavaScript (<code>fetch</code>), handling JSON response payloads to render dynamic UI updates without page refreshes.</li>
+        <li><strong>Architecture:</strong> Collaborated within a team of 3 to link UI components with backend Flask services and predictive machine learning models.</li>
       </ul>
       <p>
         <a href="https://github.com/avdgangadhara" target="_blank">
-          <img src="https://img.shields.io/badge/View_Source-238636?style=flat-square&logo=github&logoColor=white" alt="View Source" />
+          <img src="https://img.shields.io/badge/Repository_Showcase-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" />
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>🔍 Wikipedia Search Application</h3>
-      <p><em>JavaScript (ES6+) &bull; REST API &bull; HTML5 &bull; CSS3 &bull; Bootstrap</em></p>
+  </tr>
+</table>
+
+<!-- Project 2: Financial Data Validator & Reconciliation Utility -->
+<table width="100%">
+  <tr>
+    <td>
+      <h3>📈 Financial Data Validator & Reconciliation Utility</h3>
+      <p><strong>Python Automation & Tabular Data Processing</strong> &bull; <em>Modular CLI Script</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+        <img src="https://img.shields.io/badge/Data_Integrity-Reconciliation-blue?style=flat-square" alt="Integrity" />
+        <img src="https://img.shields.io/badge/Status-Production_Ready-success?style=flat-square" alt="Status" />
+      </p>
       <ul>
-        <li>Dynamic web application fetching and rendering live Wikipedia articles via asynchronous fetch requests.</li>
-        <li>Integrated custom animated loading spinners, empty-state indicators, and real-time keyboard event listeners (Enter key trigger).</li>
-        <li>Clean, mobile-responsive layout utilizing Bootstrap grid and custom CSS transitions.</li>
+        <li><strong>Batch Transaction Ingestion:</strong> Built a modular Python utility parsing raw financial CSV/Excel transaction files with whitespace sanitization and datatype enforcement.</li>
+        <li><strong>Integrity & Edge-Case Checks:</strong> Implemented automated checks detecting duplicate transaction IDs, unassigned account IDs, and unbalanced debit/credit records.</li>
+        <li><strong>Discrepancy Reporting:</strong> Engineered cross-ledger date-window reconciliation computing net balance differences and producing structured audit summaries without script interruption.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/avdgangadhara" target="_blank">
+          <img src="https://img.shields.io/badge/Repository_Showcase-181717?style=flat-square&logo=github&logoColor=white" alt="Repository" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Project 3: Wikipedia Search Application -->
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🔍 Wikipedia Search Application</h3>
+      <p><strong>Asynchronous REST API Web Application</strong> &bull; <em>Verified GitHub Repository</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Bootstrap-4-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 4" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status" />
+      </p>
+      <ul>
+        <li><strong>Asynchronous Search Integration:</strong> Integrates the official Wikipedia Search REST API using the JavaScript <code>Fetch API</code> to execute real-time queries on user keyboard actions without page reloading.</li>
+        <li><strong>Dynamic DOM Rendering:</strong> Programmatically generates and injects styled HTML elements displaying article titles, active links, and snippets dynamically.</li>
+        <li><strong>State & Feedback:</strong> Features custom CSS loading spinners and clean visual transitions to provide responsive user feedback during network requests.</li>
       </ul>
       <p>
         <a href="https://github.com/avdgangadhara/Wikipedia_Search_Application" target="_blank">
-          <img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" alt="Repository" />
+          <img src="https://img.shields.io/badge/View_Repository-238636?style=flat-square&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
     </td>
   </tr>
+</table>
+
+<!-- Project 4: Task Organizer Application -->
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🔐 Password Manager V2</h3>
-      <p><em>Python &bull; Cryptography &bull; Security &bull; JSON Storage</em></p>
+    <td>
+      <h3>📝 Task Organizer Application</h3>
+      <p><strong>Modular Python CLI with Automated Persistence</strong> &bull; <em>Verified GitHub Repository</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3.12+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/JSON-Serialization-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
+        <img src="https://img.shields.io/badge/CLI-Architecture-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="CLI" />
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status" />
+      </p>
       <ul>
-        <li>Secure credential vault engineered with cryptographic key encryption and decryption routines.</li>
-        <li>Dynamic password entropy and strength evaluator checking for character sets and length criteria.</li>
-        <li>Automated strong password generator with defensive JSON data persistence and validation.</li>
+        <li><strong>Full CRUD Functionality:</strong> Built a structured CLI utility executing complete Create, Read, Update, and Delete operations using native Python lists and dictionary data structures.</li>
+        <li><strong>Automated JSON Persistence:</strong> Implemented automated file serialization to a local <code>tasks.json</code> file, preserving user entries across application runs.</li>
+        <li><strong>Defensive Programming:</strong> Encapsulated operations in robust <code>try-except</code> blocks handling <code>FileNotFoundError</code>, corrupted <code>JSONDecodeError</code>, and non-numeric inputs gracefully, with runtime Python 3.12+ validation via the <code>sys</code> module.</li>
       </ul>
       <p>
-        <a href="https://github.com/avdgangadhara/Password_Manager_V2" target="_blank">
-          <img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" alt="Repository" />
+        <a href="https://github.com/avdgangadhara/Task_Organizer_Application" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-238636?style=flat-square&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>👥 Employee Records Management System</h3>
-      <p><em>Java &bull; Core Java OOP &bull; Collections Framework &bull; File I/O</em></p>
+  </tr>
+</table>
+
+<!-- Project 5: E-Commerce Product Website -->
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🛍️ E-Commerce Product Storefront Website</h3>
+      <p><strong>Responsive Multi-Section Storefront</strong> &bull; <em>Verified GitHub Repository</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/Bootstrap-4.5.2-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap 4" />
+        <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status" />
+      </p>
       <ul>
-        <li>Console-driven enterprise record management utility supporting complete CRUD operations.</li>
-        <li>Structured object-oriented design implementing encapsulation, inheritance, and clean domain models.</li>
-        <li>Persistent file-based record storage, structured searching, and validation filters.</li>
+        <li><strong>Interactive Client-Side Cart:</strong> Engineered dynamic DOM state handling with Vanilla JavaScript to increment shopping cart counter badges and render immediate visual feedback upon item selection.</li>
+        <li><strong>Responsive Grid & Modals:</strong> Architected a multi-section storefront layout leveraging Bootstrap 4 grids, interactive promotional carousels, and popup modals for detailed product specifications.</li>
+        <li><strong>Event-Driven Interactions:</strong> Programmed custom JavaScript event listeners managing form inputs, user inquiry prompts, and dynamic date rendering.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/avdgangadhara/E-Commerce_Product_Website" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-238636?style=flat-square&logo=github&logoColor=white" alt="View Repository" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Project 6: Employee Records Management System -->
+<table width="100%">
+  <tr>
+    <td>
+      <h3>👥 Employee Records Management System</h3>
+      <p><strong>Java Spring Boot Multi-Tier REST Architecture</strong> &bull; <em>Verified GitHub Repository</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-JDK_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Spring_Boot-3+-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Spring_Web-REST-6DB33F?style=flat-square" alt="Spring Web" />
+        <img src="https://img.shields.io/badge/Maven-Build-C71A36?style=flat-square&logo=apachemaven&logoColor=white" alt="Maven" />
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status" />
+      </p>
+      <ul>
+        <li><strong>Enterprise Architectural Pattern:</strong> Engineered a structured Java application adopting the industry-standard Controller-Service-Repository separation of concerns.</li>
+        <li><strong>REST Endpoint Exposure:</strong> Implemented <code>EmployeeController</code> to handle incoming HTTP requests, delegating core business logic to <code>EmployeeService</code>.</li>
+        <li><strong>Domain Modeling & Persistence Layer:</strong> Defined encapsulated <code>Employee</code> domain models and <code>EmployeeRepository</code> interfaces for robust data management.</li>
       </ul>
       <p>
         <a href="https://github.com/avdgangadhara/Employee-Records" target="_blank">
-          <img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" alt="Repository" />
+          <img src="https://img.shields.io/badge/View_Repository-238636?style=flat-square&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
     </td>
   </tr>
+</table>
+
+<!-- Project 7: Password Manager V2 -->
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>📝 Interactive Task & Todo Web Application</h3>
-      <p><em>JavaScript &bull; HTML5 &bull; CSS3 &bull; Web Storage API</em></p>
+    <td>
+      <h3>🔐 Password Manager V2</h3>
+      <p><strong>Cryptographic Key Vault & Security Utility</strong> &bull; <em>Verified GitHub Repository</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Cryptography-Fernet-black?style=flat-square&logo=gnupg&logoColor=white" alt="Cryptography" />
+        <img src="https://img.shields.io/badge/Security-Credential_Vault-red?style=flat-square" alt="Security" />
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status" />
+      </p>
       <ul>
-        <li>Interactive task tracker supporting task creation, inline status toggling, deletion, and filter states.</li>
-        <li>Client-side state preservation utilizing <code>localStorage</code> to retain tasks and user configuration across browser reloads.</li>
-        <li>Responsive, accessible UI with smooth micro-interactions and input sanitization.</li>
+        <li><strong>Symmetric Key Encryption:</strong> Developed credential encryption and decryption routines using the Python <code>cryptography</code> library with Fernet symmetric keys.</li>
+        <li><strong>Password Strength & Generation:</strong> Built an automated password generator with entropy assessment algorithms validating character diversity (uppercase, digits, special symbols) and length criteria.</li>
+        <li><strong>Secure Object Model:</strong> Encapsulated credentials in object-oriented classes with protected state access.</li>
       </ul>
       <p>
-        <a href="https://github.com/avdgangadhara/To-do_List_Web" target="_blank">
-          <img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" alt="Repository" />
+        <a href="https://github.com/avdgangadhara/Password_Manager_V2" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-238636?style=flat-square&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+</table>
+
+<!-- Project 8: Sentimental Analysis Chatbot -->
+<table width="100%">
+  <tr>
+    <td>
       <h3>🤖 Sentiment Analysis Chatbot</h3>
-      <p><em>Python &bull; TextBlob &bull; Natural Language Processing</em></p>
+      <p><strong>Natural Language Processing & Conversational Evaluation</strong> &bull; <em>Verified GitHub Repository</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TextBlob-NLP-FF6F00?style=flat-square" alt="TextBlob" />
+        <img src="https://img.shields.io/badge/Sentiment-Polarity_Scoring-blue?style=flat-square" alt="Sentiment" />
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status" />
+      </p>
       <ul>
-        <li>Conversational chatbot analyzing user sentiment in real-time across review datasets and live dialogue.</li>
-        <li>Calculates polarity and subjectivity scores to classify statements as positive, negative, or neutral.</li>
-        <li>Modular script design handling continuous chat loops, greeting heuristics, and graceful termination.</li>
+        <li><strong>Real-Time Sentiment Classification:</strong> Evaluates user dialogue sentiment (positive, negative, neutral) by extracting polarity and subjectivity metrics through TextBlob NLP.</li>
+        <li><strong>Session History Serialization:</strong> Automatically logs conversation sessions, timestamps, scores, and responses into a persistent <code>chat_history.json</code> file.</li>
+        <li><strong>Error & Edge Handling:</strong> Features graceful handling of non-English input, empty queries, and runtime interrupts.</li>
       </ul>
       <p>
         <a href="https://github.com/avdgangadhara/Sentimental-Analysis-Chatbot" target="_blank">
-          <img src="https://img.shields.io/badge/Repository-238636?style=flat-square&logo=github&logoColor=white" alt="Repository" />
+          <img src="https://img.shields.io/badge/View_Repository-238636?style=flat-square&logo=github&logoColor=white" alt="View Repository" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!-- Project 9: Interactive To-Do Web Application -->
+<table width="100%">
+  <tr>
+    <td>
+      <h3>✅ Interactive To-Do Web Application</h3>
+      <p><strong>Client-Side Task Management with LocalStorage</strong> &bull; <em>Verified GitHub Repository</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/Web_Storage-localStorage-green?style=flat-square" alt="localStorage" />
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status" />
+      </p>
+      <ul>
+        <li><strong>Persistent State Architecture:</strong> Synchronizes task additions, status updates, and deletions with the browser's <code>localStorage</code> API to retain data across sessions.</li>
+        <li><strong>Interactive UI Components:</strong> Built with responsive CSS and JavaScript event handlers for inline completion toggling and input validation.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/avdgangadhara/To-do_List_Web" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-238636?style=flat-square&logo=github&logoColor=white" alt="View Repository" />
         </a>
       </p>
     </td>
@@ -221,55 +402,131 @@ Here is a curated selection of real-world development projects demonstrating tec
 ### 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <a href="https://github.com/avdgangadhara">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=avdgangadhara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" width="100%" />
-        </a>
-      </td>
-      <td align="center" width="50%" valign="top">
-        <a href="https://github.com/avdgangadhara">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=avdgangadhara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <a href="https://github.com/avdgangadhara">
-          <img src="https://streak-stats.demolab.com?user=avdgangadhara&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Streak Stats" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
 
-  <br/>
+  <!-- 1. Overall GitHub Statistics (Single-Column Full-Width Row) -->
+  <h4>📊 Overall GitHub Statistics</h4>
+  <a href="https://github.com/avdgangadhara">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=avdgangadhara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Burada A V D Gangadhara Rao - GitHub Stats" style="max-width: 100%; height: auto;" />
+  </a>
 
-  <!-- Contribution Snake Animation -->
-  <h4>Contribution Timeline</h4>
+<br/><br/>
+
+  <!-- 2. Most Used Languages (Single-Column Full-Width Row) -->
+  <h4>💻 Most Used Languages</h4>
+  <a href="https://github.com/avdgangadhara">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=avdgangadhara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Burada A V D Gangadhara Rao - Most Used Languages" style="max-width: 100%; height: auto;" />
+  </a>
+
+<br/><br/>
+
+  <!-- 3. Contribution Streak Statistics (Single-Column Full-Width Row) -->
+  <h4>🔥 Contribution Streak & Activity</h4>
+  <a href="https://github.com/avdgangadhara">
+    <img src="https://streak-stats.demolab.com?user=avdgangadhara&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="Burada A V D Gangadhara Rao - Streak Stats" style="max-width: 100%; height: auto;" />
+  </a>
+
+<br/><br/>
+
+  <!-- 4. Contribution Timeline / Snake Animation (Single-Column Full-Width Row) -->
+  <h4>📈 Activity Graph & Contribution Timeline</h4>
   <img src="https://raw.githubusercontent.com/avdgangadhara/avdgangadhara/output/snake.svg" alt="Contribution Snake Animation" width="100%" />
+
 </div>
 
 ---
 
-### 📬 Get In Touch
+### 📬 Get In Touch & Professional Opportunities
 
-Whether you have an entry-level software engineering opening, a full-stack developer role, or simply want to connect, feel free to reach out:
+Whether you are a recruiter, engineering hiring manager, or technical collaborator looking for a passionate **Software Developer** with proven foundations in **Python, Java, SQL**, and responsive web engineering—I welcome the conversation. I am actively seeking full-time entry-level engineering roles, graduate developer opportunities, and high-impact software positions.
 
-<div align="center">
-
-| Channel | Contact / Profile Link |
-| :--- | :--- |
-| **Email** | [bavdgangadhararao@zohomail.in](mailto:bavdgangadhararao@zohomail.in) |
-| **LinkedIn** | [linkedin.com/in/avdgangadhara](https://in.linkedin.com/in/avdgangadhara) |
-| **GitHub** | [github.com/avdgangadhara](https://github.com/avdgangadhara) |
-| **LeetCode** | [leetcode.com/u/avdgangadhara](https://leetcode.com/u/avdgangadhara) |
-| **HackerRank** | [hackerrank.com/avdgangadhara](https://hackerrank.com/avdgangadhara) |
-| **Telegram** | [@gangadhararaoburada](https://t.me/gangadhararaoburada) |
-| **Medium** | [@gangadhararaoburada](https://medium.com/@gangadhararaoburada) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="28%">Channel</th>
+      <th align="left" width="46%">Direct Profile / Contact Link</th>
+      <th align="left" width="26%">Purpose</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      </td>
+      <td>
+        <a href="mailto:bavdgangadhararao@zohomail.in"><strong>bavdgangadhararao@zohomail.in</strong></a>
+      </td>
+      <td>Direct Inquiries & Interviews</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      </td>
+      <td>
+        <a href="https://in.linkedin.com/in/avdgangadhara" target="_blank">linkedin.com/in/avdgangadhara</a>
+      </td>
+      <td>Professional Network & Endorsements</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      </td>
+      <td>
+        <a href="https://github.com/avdgangadhara" target="_blank">github.com/avdgangadhara</a>
+      </td>
+      <td>Code Repositories & Commits</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+      </td>
+      <td>
+        <a href="https://leetcode.com/u/avdgangadhara" target="_blank">leetcode.com/u/avdgangadhara</a>
+      </td>
+      <td>Algorithms & Problem Solving</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank" />
+      </td>
+      <td>
+        <a href="https://hackerrank.com/avdgangadhara" target="_blank">hackerrank.com/profile/avdgangadhara</a>
+      </td>
+      <td>Domain Badges & Technical Tests</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Telegram-24A1DE?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
+      </td>
+      <td>
+        <a href="https://t.me/gangadhararaoburada" target="_blank">t.me/gangadhararaoburada</a>
+      </td>
+      <td>Direct Messaging & Quick Chat</td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white" alt="Medium" />
+      </td>
+      <td>
+        <a href="https://medium.com/@gangadhararaoburada" target="_blank">medium.com/@gangadhararaoburada</a>
+      </td>
+      <td>Technical Articles & Learning</td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
-<sub>Designed with clean GitHub Markdown &bull; Crafted for recruiters and technical evaluators</sub>
+<div align="center">
+  <a href="mailto:bavdgangadhararao@zohomail.in">
+    <img src="https://img.shields.io/badge/✉%EF%B8%8F_Send_an_Email-bavdgangadhararao%40zohomail.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Direct Email Contact" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://in.linkedin.com/in/avdgangadhara" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  </a>
+
+<br/><br/>
+
+<sub>Designed with clean GitHub Flavored Markdown &bull; Verified for Technical Recruiter Review &bull; Burada A V D Gangadhara Rao</sub>
 
 </div>
