@@ -415,6 +415,34 @@ Every featured project represents genuine, completed development work with verif
   </tr>
 </table>
 
+<!-- Project: DineMaster - Restaurant & Chef Operations Platform -->
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🍽️ DineMaster &ndash; Restaurant &amp; Chef Operations Platform</h3>
+      <p><strong>Java Spring Boot REST Backend &amp; Relational Data Persistence</strong> &bull; <em>Verified GitHub Repository</em></p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-JDK_17%2F21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+        <img src="https://img.shields.io/badge/Spring_Boot-3+-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+        <img src="https://img.shields.io/badge/Spring_Data_JPA-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Spring Data JPA" />
+        <img src="https://img.shields.io/badge/REST_APIs-Postman-005571?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
+        <img src="https://img.shields.io/badge/SQL-Relational_DB-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+        <img src="https://img.shields.io/badge/Status-Completed-success?style=flat-square" alt="Status" />
+      </p>
+      <ul>
+        <li><strong>3-Tier Enterprise Architecture:</strong> Structured a modular backend using Controller-Service-Repository patterns, separating business logic in <code>RestaurantJpaService</code> and <code>ChefJpaService</code> from HTTP routing in <code>RestaurantController</code> and <code>ChefController</code>.</li>
+        <li><strong>Relational JPA Modeling:</strong> Configured entity relationships using Hibernate/JPA annotations, establishing a <code>@ManyToOne</code> foreign-key association between Chefs and Restaurants backed by normalized relational DDL in <code>schema.sql</code>.</li>
+        <li><strong>Robust REST API Design:</strong> Exposed full CRUD endpoints with defensive status code handling (returning <code>204 NO_CONTENT</code> on successful deletions and <code>404 NOT_FOUND</code> for invalid lookups), verified across all routes with Postman.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/avdgangadhara/DineMaster" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repository-238636?style=flat-square&logo=github&logoColor=white" alt="View Repository" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 <!-- Project 7: Password Manager V2 -->
 <table width="100%">
   <tr>
