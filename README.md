@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://raw.githubusercontent.com/avdgangadhara/avdgangadhara/main/White%20Minimalist%20Profile%20LinkedIn%20Banner.png" alt="Burada A V D Gangadhara Rao - Profile Banner" width="100%" />
+  <img src="https://github.com/avdgangadhara/avdgangadhara/blob/main/Neutral%20Minimalist%20Brand%20Manager%20LinkedIn%20Banner.png" alt="Burada A V D Gangadhara Rao - Profile Banner" width="100%" />
 
   <!-- Dynamic Typing Subtitle -->
   <a href="https://github.com/avdgangadhara">
