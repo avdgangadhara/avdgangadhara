@@ -530,7 +530,7 @@ Every featured project represents genuine, completed development work with verif
   <!-- 1. Overall GitHub Statistics (Single-Column Full-Width Row) -->
   <h4>📊 Overall GitHub Statistics</h4>
   <a href="https://github.com/avdgangadhara">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=avdgangadhara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Burada A V D Gangadhara Rao - GitHub Stats" style="max-width: 100%; height: auto;" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=avdgangadhara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Burada A V D Gangadhara Rao - GitHub Stats" style="max-width: 100%; height: auto;" />
   </a>
 
   <br/><br/>
@@ -538,7 +538,7 @@ Every featured project represents genuine, completed development work with verif
   <!-- 2. Most Used Languages (Single-Column Full-Width Row) -->
   <h4>💻 Most Used Languages</h4>
   <a href="https://github.com/avdgangadhara">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=avdgangadhara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Burada A V D Gangadhara Rao - Most Used Languages" style="max-width: 100%; height: auto;" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=avdgangadhara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Burada A V D Gangadhara Rao - Most Used Languages" style="max-width: 100%; height: auto;" />
   </a>
 
   <br/><br/>
